@@ -1,0 +1,1 @@
+18: nil o null en ese caso denuncia, que nada importante devuelve (ruby no distingue entre expresiones y declaraciones)
